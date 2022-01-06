@@ -17,6 +17,10 @@ const Header = () => {
             </div>
             <div className='gpt3__header-content__people'>
                 <img src={people} />
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.odio aspernatur eius et quod voluptatem eum optio voluptatum sint!</p>
+            </div>
+            <div className='gpt3__header-image'>
+                <img src={ai} />
             </div>
             </div>
         </div>
