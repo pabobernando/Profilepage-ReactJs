@@ -3,4 +3,36 @@
     flex-direction: column;
     padding: 2rem;
     background: var(--color-footer);
+
+    position: absolute;
+    width: 472px;
+    height: 90px;
+    left: 187px;
+    top: 1301px;
+
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 45px;
+}
+
+.gpt3__whatgpt3-featur{
+    display: flex;
+}
+
+.gpt3__whatgpt3-featur .gpt3__features-container__feature{
+    margin: 0;
+}
+
+.gpt3__whatgpt3-featur .gpt3__features-container__feature-text{
+    max-width: 700px;
+}
+
+.gpt3__whatgpt3-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 4rem 0 2rem;
 }
